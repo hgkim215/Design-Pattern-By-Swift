@@ -33,7 +33,7 @@
 3. **어댑터 (Adapter)**: **타겟 인터페이스**를 구현하고, **어댑티(Adaptee)**의 인스턴스를 감싸고 있다. 클라이언트의 요청을 어댑티가 이해할 수 있는 형태로 변환하여 전달하는 핵심적인 역할을 한다.
 4. **어댑티 (Adaptee) 또는 서비스(Service)**: 기존에 존재하지만 호환되지 않는 인터페이스를 가진 클래스이다. 우리 예시에서는 외부 라이브러리인 `FantasticLogger`가 해당된다.
 
-![[Adaptor1.png]]
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/7d14ef68-6496-49b2-93cb-26ae98e4c618" />
 
 # 수도코드
 
